@@ -4,7 +4,7 @@ Optimize for feature pairing - what combinations are actually possible?
 
 [![PDF Thumbnail](docs/ccn_2024_final.jpg)](docs/ccn_2024_final.pdf)
 
-- **Paper:** [Paper](docs/ccn_2024.pdf)
+- [Paper](docs/ccn_2024.pdf)
 
 
 
